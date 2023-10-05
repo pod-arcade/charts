@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  desktop-sidecar:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-10-05T18:20:13.302754604Z"
+    description: A Helm chart for Kubernetes
+    digest: ad744c438524aa93c095f70338aa14723a3000cc5cc47d1d2f57c22aa00550e5
+    name: desktop-sidecar
+    type: application
+    urls:
+    - https://github.com/pod-arcade/charts/releases/download/desktop-sidecar-0.1.0/desktop-sidecar-0.1.0.tgz
+    version: 0.1.0
+  server:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-10-05T18:20:13.563114928Z"
+    description: A Helm chart for Kubernetes
+    digest: 8eb17ca0655a2b6fe364c00b008c76cb88b50090007b78f710039ecbde8d5d10
+    name: server
+    type: application
+    urls:
+    - https://github.com/pod-arcade/charts/releases/download/server-0.1.0/server-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-10-05T18:20:13.563119429Z"
