@@ -44,6 +44,16 @@ entries:
   server:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2023-12-04T22:50:20.241182049Z"
+    description: A Helm chart for Kubernetes
+    digest: dcda599799b7091bb65d7a79034cf37d588e77a2eeb7385e46c6beb2bab84387
+    name: server
+    type: application
+    urls:
+    - https://github.com/pod-arcade/charts/releases/download/server-0.1.1/server-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2023-10-05T18:20:13.563114928Z"
     description: A Helm chart for Kubernetes
     digest: 8eb17ca0655a2b6fe364c00b008c76cb88b50090007b78f710039ecbde8d5d10
@@ -52,4 +62,4 @@ entries:
     urls:
     - https://github.com/pod-arcade/charts/releases/download/server-0.1.0/server-0.1.0.tgz
     version: 0.1.0
-generated: "2023-12-01T21:05:52.967803636Z"
+generated: "2023-12-04T22:50:20.241206976Z"
